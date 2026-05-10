@@ -1,0 +1,4 @@
+[educationalsp]2026/05/10 15:44:08 main.go:12: Hey, I started
+[educationalsp]2026/05/10 15:44:08 main.go:24: Content-Length: 17
+
+{"method":"test"}
